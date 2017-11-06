@@ -4,8 +4,8 @@
  *			encontrar o elemento do intervalo cujo valor é o mais  
  *			proximo da media do intervalo.
  * @author	LaelRodrigues (laelrodrigues7@gmail.com)
- * @since	05/06/2017
- * @date	08/06/2017
+ * @since	05/11/2017
+ * @date	05/11/2017
  */	
 
 

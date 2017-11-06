@@ -31,7 +31,4 @@ int main(int argc, char* argv[]) {
 	list<int> vetor;
 	sequenciaPrimos(valor, vetor);
 	return EXIT_SUCCESS;
-
-   
-	return 0;
 } 	

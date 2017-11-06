@@ -1,10 +1,10 @@
 /**
- * @file	main1.cpp
+ * @file	main.cpp
  * @brief	Codigo fonte de teste da funcao closest2mean
  *			presente no arquivo intervalo.h
  * @author	LaelRodrigues (laelRodrigues7@gmail.com)
  * @since	05/11/2017
- * @date	05/11/2017
+ * @date	06/11/2017
  */
 
 
